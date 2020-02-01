@@ -1,6 +1,6 @@
 # 2019gsc_Atsuko-Nakanishi
-2019年ゼミ論レポジトリ→https://docs.google.com/document/d/1Itanha2eji_JaF_7JxZA2gHgHyp3ay9NIcT8aZ3K5dE/edit?usp=sharin
-最終発表スライド→https://docs.google.com/presentation/d/128HNG6Zvw7h2Rzmmzcc2v2vbs2l3Yp3JxxVUmJ6mbBw/edit#slide=id.g7d29f3ceef_0_99
+# 2019年ゼミ論レポジトリ→https://docs.google.com/document/d/1Itanha2eji_JaF_7JxZA2gHgHyp3ay9NIcT8aZ3K5dE/edit?usp=sharin
+# 最終発表スライド→https://docs.google.com/presentation/d/128HNG6Zvw7h2Rzmmzcc2v2vbs2l3Yp3JxxVUmJ6mbBw/edit#slide=id.g7d29f3ceef_0_99
 # 概要
  本研究は、National Network for Emergency Mapping(以下、N2EM)が主体となって行っている、災害時におけるボランティアセンター情報のデータ化作業を、2019年10月に発生した台風19号の作業経験をもとにマニュアル化したものである。
 近年、災害時においては、各地で被害に対応するためボランティアセンター(以下、VC)が開設さていれるが、ボランティア希望者が膨大な数存在するVCの情報を詳細に把握するのは困難である。
